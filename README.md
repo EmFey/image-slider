@@ -24,4 +24,4 @@ This project is not done yet, no project is ever done, wink
 Just having fun
 
 ## LIVE
-Coming Soon...
+https://emfey.github.io/image-slider/
